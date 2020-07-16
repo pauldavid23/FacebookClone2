@@ -1,0 +1,130 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url("https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/50/Wiki-background/revision/latest?cb=20190702114204");
+	background-repeat: no-repeat;
+}
+
+.container {
+	width: 1140px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #DFDFDF;
+	height: 800px;
+	background-color: #ecf0f1;
+	opacity: 0.98;
+}
+
+.main-logo {
+	font-family: Segoe UI, Arial; 
+	font-size: 30px;
+	background-color: blue;
+	color: white;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.coverphoto {
+	width: 820px;
+	height: 312px;
+	float: right;
+	padding-bottom: 10px;
+}
+
+.profile-picture {
+	width: 220px;
+	height: 220px; 
+	margin-top: 10px;
+	margin-left: 10px;
+	border-radius: 50%;
+}
+
+
+.profile-name {
+	float: left;
+	margin-top: 1px;
+	margin-left: 20px;
+}
+
+.status {
+	text-align: center;
+	font-style: italic;
+	font-size: 25px;
+	font-family: Segoe UI;
+}
+
+.profile {
+	margin-top: 300px;
+	text-align: center;
+	border: 1px solid #DFDFDF;
+	height: 450px;
+	width: 700px;
+	margin-left: 320px;
+	background-color: #E7E5E5;
+	padding-top: 40px; 
+	text-align: justify;
+	line-height: 200%;
+
+}
+
+.name {
+	font-weight: bold;
+	font-family: Segoe UI, Arial;
+	text-align: center;
+}
+
+.more-info {
+	padding-top: 15px;
+	font-family: Segoe UI, Arial;
+
+}
+
+.the-info {
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	border: 1px solid #DFDFDF;
+	background-color: #E7E5E5;
+}
+
+.critical-info {
+	padding-left: 15px;
+	text-align: justify;
+}
+
+.biography::first-letter {
+	font-size: 40px;
+	font-family: Segoe UI;
+	padding-left: 10px;
+}
+
+.biography {
+	padding: 10px;
+
+}
+
+ .alias {
+	border: 1px solid #DFDFDF;
+	background-color: #E7E5E5;
+	font-weight: bold;
+	text-align: center;
+	height: 30px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	
+}
+
+.roles {
+	border: 1px solid #DFDFDF;
+	background-color: #E7E5E5;
+	font-weight: bold;
+	text-align: center;
+	height: 30px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	
+}
